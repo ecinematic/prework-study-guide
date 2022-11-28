@@ -6,12 +6,7 @@ This Study Guide was created for boot camp students who were goin through the Pr
 
 This guide will serve as a useful tool as we progress through the course work.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+It was designed to help beginning students understand the basics of HTML, CSS, git, and JavaScript.
 
 ## Installation
 
